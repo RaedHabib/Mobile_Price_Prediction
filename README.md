@@ -1,5 +1,6 @@
 # Mobile_price_prediction
-![image](https://github.com/RaedHabib/Mobile_Price_Prediction/assets/127057461/360367e2-0bd1-4d35-89ad-006d8e63fd2f)
+![image](https://github.com/RaedHabib/Mobile_Price_Prediction/assets/127057461/527c66e2-9257-4832-82ea-0ac8bd79d198)
+
 
 ## :dart: About: ##
 
